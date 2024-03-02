@@ -1,0 +1,24 @@
+{
+  "name": "random-tea90",
+  "version": "1.0.0",
+  "description": "app dedic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nazik35/random-tea90.git"
+  },
+  "dependencies": {
+    "cmaroind-tea": "^1.0.0",
+    "minti_fulkerson": "0.1.4",
+    "tea-demonstration": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazik35/random-tea90/issues"
+  },
+  "homepage": "https://github.com/Nazik35/random-tea90#readme"
+}
